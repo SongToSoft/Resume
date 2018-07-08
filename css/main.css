@@ -1,0 +1,136 @@
+body
+{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #222222;
+}
+.container
+{
+	width: 930px;
+	margin: 0 auto;
+}
+.clearfix:after
+{
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both; 
+}
+
+div
+{
+	box-sizing: border-box;
+}
+
+header
+{
+	background: url(../img/laptop.jpeg) no-repeat center top / cover;
+	height: 100vh;
+}
+
+h1
+{
+	font-size: 40px;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 15px;
+}
+
+.title
+{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.titles_first
+{
+	font-size: 40px;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 300px;
+}
+
+.title h2
+{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.AllWorks
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.Works_item h3
+{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.Works_item p
+{
+	font-size: 14px;
+	color: #777777;
+	line-height: 1.55em;
+}
+
+.Works_item
+{
+	width: 270px;
+	float: left;
+	text-align: center;
+	margin-left: 60px;
+}
+
+.LeftThem img
+{
+	float: right;
+	margin-right: 380px;
+	padding-bottom: 50px;
+}
+
+.RightThem img
+{
+	float: left;
+	margin-left: 359px;
+	padding-bottom: 50px;
+}
+
+.Works_item2
+{
+	width: 270px;
+	float: right;
+	text-align: center;
+	margin-right: 60px;
+}
+
+.Works_item2 p
+{
+	font-size: 14px;
+	color: #777777;
+	line-height: 1.55em;
+}
+.resources
+{
+	font-style: italic
+}
+
+.logo
+{
+	float: left;
+	margin-left: 355px;
+}
+
+/**
+{
+	border: 1px solid red;
+}*/
