@@ -11,8 +11,6 @@
 * Unit tests, Selenium, cpputest
 * Linear algebra, Discrete mathematics, Mathematical / functional analysis
 * Algorithms and data structures
-* Rest API
-* Low level Html, Css
 * Unity3d, Monogame framework
 * Git, Svn
 
