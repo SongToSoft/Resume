@@ -5,8 +5,8 @@
 * Programmer and QA autotester
 
 # Skills
-* *Bassic*: Pascal, C, Java, Python, Ruby.
-* *Above the average*: C#, C++
+* **Bassic:** Pascal, C, Java, Python, Ruby
+* **Above the average:** C#, C++
 * Linux (bash)
 * T-sql, Microsoft sql server, WPF, Windows forms
 * Unit tests, Selenium, cpputest
