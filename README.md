@@ -2,10 +2,11 @@
 * Bogdanov Dmitry
 * E-mail: bogdanovdi888@gmail.com
 * Bachelor of Applied Mathematics and Computer Science
-* Programmer and QA autotester in work. Game developer in free time
+* Programmer and QA autotester in work
+* Game developer in free time
 
 # Skills
-* **Bassic:** Pascal, C, Java, Python, Ruby
+* **Basics:** Pascal, C, Java, Python, Ruby
 * **Above the average:** C#, C++
 * Linux (bash)
 * T-sql, Microsoft sql server, WPF, Windows forms
