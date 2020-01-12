@@ -13,6 +13,7 @@
 * Unit tests, Selenium, cpputest
 * Linear algebra, Discrete mathematics, Mathematical / functional analysis
 * Algorithms and data structures
+* Design patterns
 * Unity3d, Monogame framework
 * Git, Svn
 
