@@ -14,7 +14,7 @@
 * Linear algebra, Discrete mathematics, Mathematical / functional analysis
 * Algorithms and data structures
 * Design patterns
-* Unity3d, Monogame framework
+* Unity3d, Monogame framework, SFML
 * Git, Svn
 
 # Work Experience
