@@ -18,4 +18,4 @@
 * Git, Svn
 
 # Work Experience
-* I have been working in the testing automation department of Rhonda Software from September 2018 to the current time
+* I worked in the testing automation department of Rhonda Software from September 2018 to february 2020.
