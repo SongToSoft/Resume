@@ -19,3 +19,4 @@
 
 # Work Experience
 * I worked in the testing automation department of Rhonda Software from September 2018 to february 2020.
+* I working in MYTONA company on position of c++ programmer from february 2020 to the present day.
