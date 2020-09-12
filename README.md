@@ -3,7 +3,6 @@
 * E-mail: bogdanovdi888@gmail.com
 * Bachelor of Applied Mathematics and Computer Science
 * Programmer and QA autotester in work
-* Game developer in free time
 
 # Skills
 * **Basics:** Pascal, C, Java, Python, Ruby
